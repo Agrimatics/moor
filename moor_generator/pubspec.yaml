@@ -25,7 +25,7 @@ dependencies:
   # Moor-specific analysis and apis
   moor:
     git:
-      url: "https://github.com/thachnb85/moor.git"
+      url: "https://github.com/Agrimatics/moor.git"
       path: moor
   sqlite3: '>=0.1.6 <2.0.0'
   sqlparser: ^0.14.0
